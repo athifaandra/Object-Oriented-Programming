@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Dec 31, 2022 at 11:17 AM
+-- Generation Time: Jan 02, 2023 at 03:35 AM
 -- Server version: 10.4.27-MariaDB
 -- PHP Version: 7.4.33
 
@@ -70,9 +70,7 @@ CREATE TABLE `pembeli` (
 --
 
 INSERT INTO `pembeli` (`no_pembelian`, `nama_pembeli`, `id_burger`, `varian`, `ukuran`, `hargatotal`, `tgl`) VALUES
-(1, 'faa', 1, 'null', 'null', 0, '2022-12-31'),
-(1111, 'Dean', 4, 'Toyota', 'Inova', 252000000, '2021-12-31'),
-(2222, 'Qiqi', 5, 'Tesla', 'Tesla', 800000000, '2021-12-31');
+(1, 'faa', 1, 'null', 'null', 0, '2022-12-31');
 
 --
 -- Indexes for dumped tables
